@@ -1,2 +1,3 @@
 # ConstitutiveLearning
-Contains codes to implement PINNs for solving equations relating stresses and strains in a material.
+
+This contains WIP work using Physics informed neural networks (PINNs) to solve elastic and viscoelastic material problems in developmental biology.
